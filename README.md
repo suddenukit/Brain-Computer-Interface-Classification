@@ -1,4 +1,4 @@
-# try
+# Brain Computer Interface Classification
 Brain computer interfaces can convert human brain’s signal
 to numerical numbers. Different pattern of the signal numbers of
 brains usually indicates different thought of human. This project
